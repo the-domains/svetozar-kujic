@@ -1,0 +1,28 @@
+name: svetozar kujic
+favicon: null
+layout_spectrum: 0.010747915832325816
+typography_spectrum: 0.5451836441643536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.391296427231282
+  lightness: 0.8517748177982867
+  saturation: 0.5157094686292112
+  rhythmicContrast: 0.3107703113928437
+purpose: []
